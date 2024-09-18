@@ -19,3 +19,8 @@ The dataset consists of 1,000 restaurant reviews in `.tsv` format. Each review i
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/sentiment-analysis-nlp.git
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run the Python script or Jupyter Notebook to train the model and test its accuracy.
