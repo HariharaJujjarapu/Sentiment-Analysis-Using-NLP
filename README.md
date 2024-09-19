@@ -18,7 +18,7 @@ The dataset consists of 1,000 restaurant reviews in `.tsv` format. Each review i
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis-nlp.git
+   git clone https://github.com/HariharaJujjarapu/sentiment-analysis-nlp.git
 
 2. Install the required dependencies:
    ```bash
